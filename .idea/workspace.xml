@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaExercises3:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ca34852a-7add-4632-a734-0bb37222883d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -779,12 +784,12 @@
       <workItem from="1498392724775" duration="5840000" />
       <workItem from="1498493646782" duration="4980000" />
       <workItem from="1498499290727" duration="6794000" />
-      <workItem from="1498827379654" duration="1183000" />
+      <workItem from="1498827379654" duration="1204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27548000" />
+    <option name="totallyTimeSpent" value="27569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1440" height="870" extended-state="6" />
