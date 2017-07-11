@@ -1,6 +1,6 @@
 # JAVA EXERCISES
 
-This is a set of four simple Java exercises. The project was created using Intellij IDEA and is organized in such a manner that it has a main file (Main.java) where it lists all questions and allows you to choose which you'd like to view the solution.
+This is a set of five simple Java exercises. The project was created using Intellij IDEA and is organized in such a manner that it has a main file (Main.java) where it lists all questions and allows you to choose which you'd like to view the solution.
 The questions are as follows:
 1. Write a Java program to calculate the average value of array elements.
 2. You are given a sequence of strings, each on a new line, until you receive “stop” command. First string is a name of a person. On the second line you receive his email. Your task is to collect their names and emails, and remove emails whose domain ends with "us" or "uk" (case insensitive).
